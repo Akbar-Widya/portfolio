@@ -22,7 +22,7 @@ const Header = () => {
                <a href="/" className="logo">
                   <img
                      src="/images/logo.svg"
-                     width={40}
+                     width={240}
                      height={40}
                      alt="Kian Pamungkas"
                   />
