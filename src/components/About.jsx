@@ -40,6 +40,14 @@ const About = () => {
                         <p className="text-sm text-zinc-400">{label}</p>
                      </div>
                   ))}
+
+                  <img
+                     src="/images/logo.svg"
+                     width={48}
+                     height={48}
+                     alt="Logo"
+                     className="ml-auto md:w-[60px] md:h-[60px]"
+                  />
                </div>
             </div>
          </div>

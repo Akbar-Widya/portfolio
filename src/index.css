@@ -115,7 +115,7 @@ html {
 @layer components {
    /* logo img */
    .logo img {
-      @apply max-md:w-[192px] max-md:h-[32px];
+      @apply max-md:w-[48px] max-md:h-[48px];
    }
 
    /* Menu button */

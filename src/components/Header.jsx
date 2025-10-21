@@ -26,8 +26,8 @@ const Header = () => {
                <a href="/" className="logo">
                   <img
                      src="/images/logo.svg"
-                     width={240}
-                     height={40}
+                     width={60}
+                     height={60}
                      alt="Kian Pamungkas"
                   />
                </a>
