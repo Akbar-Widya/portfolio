@@ -26,20 +26,16 @@ const sitemap = [
 const socials = [
   {
     label: 'GitHub',
-    href: 'https://www.github.com/codewithsadee-org'
+    href: 'https://www.github.com/Akbar-Widya'
   },
   {
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/codewithsadee'
+    href: 'https://www.linkedin.com/in/kian-pamungkas'
   },
   {
     label: 'Instagram',
-    href: 'https://www.instagram.com/codewithsadee'
+    href: 'https://www.instagram.com/kianpamungkas.pmk'
   },
-  {
-    label: 'CodePen',
-    href: 'https://codepen.io/codewithsadee'
-  }
 ];
 
 const Footer = () => {
