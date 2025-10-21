@@ -11,7 +11,8 @@ html {
 
 /* TYPOGRAPHY */
 @layer components {
-   .headline-1, .headline-2 {
+   .headline-1,
+   .headline-2 {
       @apply max-w-max;
       background: -webkit-linear-gradient(0deg, #fafafa, #a1a1aa);
       -webkit-background-clip: text;

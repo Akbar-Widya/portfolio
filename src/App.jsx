@@ -13,6 +13,7 @@ import Skill from "./components/Skill"
 import Work from "./components/Work"
 import Review from "./components/Review"
 import Contact from "./components/Contact"
+import Footer from "./components/Footer"
 
 const App = () => {
   return (
@@ -25,6 +26,7 @@ const App = () => {
             <Work />
             <Review />
             <Contact />
+            <Footer />
          </main>
       </>
   )

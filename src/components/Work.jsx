@@ -15,15 +15,15 @@ const works = [
    },
    {
       imgSrc: '/images/project-3.jpg',
-      title: 'Movie Database',
-      tags: ['API', 'Web-design'],
-      projectLink: 'https://kian-movie-database.vercel.app'
-   },
-   {
-      imgSrc: '/images/project-4.jpg',
       title: 'AI Tutor Companion',
       tags: ['API', 'MVC', 'SaaS'],
       projectLink: 'https://kian-pamungkas-ai-tutor.vercel.app'
+   },
+   {
+      imgSrc: '/images/project-4.jpg',
+      title: 'Movie Database',
+      tags: ['API', 'Web-design'],
+      projectLink: 'https://kian-movie-database.vercel.app'
    },
    {
       imgSrc: '/images/project-5.jpg',
