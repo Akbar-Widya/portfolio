@@ -1,3 +1,8 @@
+/**
+ * @copyright 2025 kianpamungkas
+ * @license Apache-2.0
+ */
+
 const ButtonPrimary = ({ href, target = "_self", label, icon, classes }) => {
    if (href) {
       return (

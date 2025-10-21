@@ -1,3 +1,8 @@
+/**
+ * @copyright 2025 kianpamungkas
+ * @license Apache-2.0
+ */
+
 const ratings = new Array(5);
 ratings.fill({
    icon: "star",
@@ -19,9 +24,7 @@ const ReviewCard = ({ content, imgSrc, name, company }) => {
             ))}
          </div>
 
-         <p className="text-zinc-400">
-            {content}
-         </p>
+         <p className="text-zinc-400">{content}</p>
 
          <div className="flex items-center gap-2 mt-auto">
             <figure className="img-box rounded-lg">
@@ -38,9 +41,7 @@ const ReviewCard = ({ content, imgSrc, name, company }) => {
             <div>
                <p>{name}</p>
 
-               <p className="text-xs text-zinc-400 tracking-wider">
-                  {company}
-               </p>
+               <p className="text-xs text-zinc-400 tracking-wider">{company}</p>
             </div>
          </div>
       </div>

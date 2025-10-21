@@ -1,3 +1,13 @@
+/**
+ * @copyright 2025 kianpamungkas
+ * @license Apache-2.0
+ */
+
+
+/**
+ * Node Modules
+ */
+
 @import "tailwindcss";
 @plugin 'tailwind-scrollbar';
 
@@ -9,7 +19,11 @@ html {
    scroll-behavior: smooth;
 }
 
-/* TYPOGRAPHY */
+
+/**
+ * Typography
+ */
+
 @layer components {
    .headline-1,
    .headline-2 {
@@ -31,6 +45,11 @@ html {
       @apply text-[22px] font-normal;
    }
 }
+
+
+/**
+ * Utilities
+ */
 
 @layer utilities {
    body {
@@ -82,7 +101,16 @@ html {
    .section {
       @apply pt-20 lg:pt-32;
    }
+
+   .reveal-up {
+      @apply translate-y-20 opacity-0;
+   }
 }
+
+
+/**
+ * Components
+ */
 
 @layer components {
    /* logo img */
