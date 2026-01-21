@@ -1,5 +1,5 @@
 /**
- * @copyright 2025 kianpamungkas
+ * @copyright 2025 akbarwidya
  * @license Apache-2.0
  */
 
@@ -23,7 +23,7 @@ const socialLinks = [
       alt: "GitHub",
    },
    {
-      href: "https://www.linkedin.com/in/kian-pamungkas",
+      href: "https://www.linkedin.com/in/akbarwidya-dev",
       icon: (
          <svg
             width="24"
@@ -41,7 +41,7 @@ const socialLinks = [
       alt: "LinkedIn",
    },
    {
-      href: "https://www.instagram.com/kianpamungkas.pmk",
+      href: "https://www.instagram.com/akbarwidya.dev",
       icon: (
          <svg
             width="25"
@@ -108,7 +108,7 @@ const Contact = () => {
                         id="name"
                         autoComplete="name"
                         required
-                        placeholder="Kian Pamungkas"
+                        placeholder="Akbar Widya"
                         className="text-field reveal-up"
                      />
                   </div>
@@ -124,7 +124,7 @@ const Contact = () => {
                         id="email"
                         autoComplete="email"
                         required
-                        placeholder="kian@example.com"
+                        placeholder="akbar@example.com"
                         className="text-field reveal-up"
                      />
                   </div>

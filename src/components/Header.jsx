@@ -1,5 +1,5 @@
 /**
- * @copyright 2025 kianpamungkas
+ * @copyright 2025 akbarwidya
  * @license Apache-2.0
  */
 
@@ -28,7 +28,7 @@ const Header = () => {
                      src="/images/logo.svg"
                      width={60}
                      height={60}
-                     alt="Kian Pamungkas"
+                     alt="Akbar Widya"
                   />
                </a>
             </h1>

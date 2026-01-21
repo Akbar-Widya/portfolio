@@ -1,5 +1,5 @@
 /**
- * @copyright 2025 kianpamungkas
+ * @copyright 2025 akbarwidya
  * @license Apache-2.0
  */
 

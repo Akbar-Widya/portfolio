@@ -1,5 +1,5 @@
 /**
- * @copyright 2025 kianpamungkas
+ * @copyright 2025 akbarwidya
  * @license Apache-2.0
  */
 
@@ -15,31 +15,37 @@ const works = [
       imgSrc: "/images/project-1.jpg",
       title: "Travel Agency Dashboard",
       tags: ["API", "MVC", "Development"],
-      projectLink: "https://kian-pamungkas-travel-agency-dashboard.vercel.app",
-   },
-   {
-      imgSrc: "/images/project-2.jpg",
-      title: "Music Player",
-      tags: ["Development", "MVC", "API"],
-      projectLink: "https://kian-pamungkas-music-player.vercel.app",
+      projectLink: "https://tourvisto-dashboard.vercel.app",
    },
    {
       imgSrc: "/images/project-3.jpg",
-      title: "AI Tutor Companion",
-      tags: ["API", "MVC", "SaaS"],
-      projectLink: "https://kian-pamungkas-ai-tutor.vercel.app",
+      title: "Learning Management System",
+      tags: ["State Management", "CRUD"],
+      projectLink: "https://oaksprotocol-lms.vercel.app",
    },
+  //  {
+  //     imgSrc: "/images/project-3.jpg",
+  //     title: "AI Tutor Companion",
+  //     tags: ["API", "MVC", "SaaS"],
+  //     projectLink: "https://ai-teacher-akbarw.vercel.app",
+  //  },
    {
       imgSrc: "/images/project-4.jpg",
       title: "Movie Database",
       tags: ["API", "Web-design"],
-      projectLink: "https://kian-movie-database.vercel.app",
+      projectLink: "https://movie-finder-akbarw.vercel.app",
    },
    {
       imgSrc: "/images/project-5.jpg",
       title: "Budget App",
       tags: ["MVC", "Development"],
-      projectLink: "https://kian-pamungkas-budget-app.vercel.app",
+      projectLink: "https://budget-notes-akbarw.vercel.app",
+   },
+   {
+      imgSrc: "/images/project-2.jpg",
+      title: "Music Player",
+      tags: ["Development", "MVC", "API"],
+      projectLink: "https://ui-music-player-akbarw.vercel.app",
    },
 ];
 

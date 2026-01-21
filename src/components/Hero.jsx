@@ -1,5 +1,5 @@
 /**
- * @copyright 2025 kianpamungkas
+ * @copyright 2025 akbarwidya
  * @license Apache-2.0
  */
 
@@ -21,7 +21,7 @@ const Hero = () => {
                         src="/images/profile.jpg"
                         width={40}
                         height={40}
-                        alt="Kian pamungkas portrait"
+                        alt="Akbar Widya portrait"
                         className="img-cover"
                      />
                   </figure>
@@ -55,7 +55,7 @@ const Hero = () => {
                      src="/images/hero-banner.png"
                      width={656}
                      height={800}
-                     alt="Kian Pamungkas"
+                     alt="Akbar Widya"
                      className="w-full"
                   />
                </figure>

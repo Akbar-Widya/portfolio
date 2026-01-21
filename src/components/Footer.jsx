@@ -1,5 +1,5 @@
 /**
- * @copyright 2025 kianpamungkas
+ * @copyright 2025 akbarwidya
  * @license Apache-2.0
  */
 
@@ -40,11 +40,11 @@ const socials = [
    },
    {
       label: "LinkedIn",
-      href: "https://www.linkedin.com/in/kian-pamungkas",
+      href: "https://www.linkedin.com/in/akbarwidya-dev",
    },
    {
       label: "Instagram",
-      href: "https://www.instagram.com/kianpamungkas.pmk",
+      href: "https://www.instagram.com/akbarwidya.dev",
    },
 ];
 
@@ -59,7 +59,7 @@ const Footer = () => {
                   </h2>
 
                   <ButtonPrimary
-                     href="mailto:kianpamungkas.pmk@gmail.com"
+                     href="mailto:akbarwidya.dev@gmail.com"
                      label="Start project"
                      icon="chevron_right"
                      classes="reveal-up"
@@ -117,7 +117,7 @@ const Footer = () => {
 
                <p className="text-zinc-500 text-sm reveal-up">
                   &copy; 2025{" "}
-                  <span className="text-zinc-200">kianpamungkas</span>
+                  <span className="text-zinc-200">akbarwidya</span>
                </p>
             </div>
          </div>
