@@ -20,7 +20,7 @@ const works = [
    {
       imgSrc: "/images/project-3.jpg",
       title: "Learning Management System",
-      tags: ["State Management", "CRUD"],
+      tags: ["SaaS", "Web-design", "CRUD"],
       projectLink: "https://oaksprotocol-lms.vercel.app",
    },
   //  {
@@ -38,13 +38,19 @@ const works = [
    {
       imgSrc: "/images/project-5.jpg",
       title: "Budget App",
-      tags: ["MVC", "Development"],
+      tags: ["CRUD", "Development"],
       projectLink: "https://budget-notes-akbarw.vercel.app",
+   },
+   {
+      imgSrc: "/images/project-6.jpg",
+      title: "Visual Thinkboard",
+      tags: ["API", "CRUD", "SaaS"],
+      projectLink: "https://visual-thinkboard.vercel.app",
    },
    {
       imgSrc: "/images/project-2.jpg",
       title: "Music Player",
-      tags: ["Development", "MVC", "API"],
+      tags: ["CRUD", "API"],
       projectLink: "https://ui-music-player-akbarw.vercel.app",
    },
 ];
